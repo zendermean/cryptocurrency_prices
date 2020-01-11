@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+api
+https://api.coinmarketcap.com/v2/ticker/?limit=10
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
